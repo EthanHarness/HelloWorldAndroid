@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="ethan_intro">My name is Ethan. I am from Dallas Texas, and I go to Texas Tech University.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
